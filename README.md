@@ -3,7 +3,7 @@
 Amazon E-commerce Clone is a project that replicates key pages and functionality of a simplified Amazon website using HTML, CSS, and JavaScript
 This clone focuses on UI structure, responsiveness, and layout of essential e-commerce screens including Order History, Checkout, and Tracking pages
 
-Check the project: https://eupedrocambui.github.io/amazon-ecommerce-clone/
+Check the project: https://pedrocambui06.github.io/amazon-ecommerce-clone/
 
 # Project Purpose
 The main goal of this project was to improve my JavaScript skills by applying them in a real-world e-commerce simulation
