@@ -16,6 +16,7 @@
 
 .amazon-header-left-section {
   width: 180px;
+  visibility: hidden;
 }
 
 @media (max-width: 800px) {
