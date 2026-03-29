@@ -22,10 +22,6 @@
   align-items: center;
 }
 
-.checkout-header-left-section {
-  width: 150px;
-}
-
 .amazon-logo {
   width: 100px;
   margin-top: 12px;
@@ -36,10 +32,6 @@
 }
 
 @media (max-width: 575px) {
-  .checkout-header-left-section {
-    width: auto;
-  }
-
   .amazon-logo {
     display: none;
   }
