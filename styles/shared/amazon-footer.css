@@ -40,7 +40,7 @@ p {
   opacity: 0.6;
 }
 
-.logo-language {
+.language-container {
     display: flex;
     justify-content: center;
     gap: 25px;
@@ -57,10 +57,8 @@ p {
     display: flex;
     align-items: center;
     gap: 5px;
-
     border: solid #bababa 1px;
     border-radius: 4px;
-
     padding: 5px;
 }
 
