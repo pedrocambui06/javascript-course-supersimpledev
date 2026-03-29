@@ -59,24 +59,10 @@ This project was developed following the MVC (Model–View–Controller) archite
 
 # How to Run the Project Locally
 
-1- Clone the Repository
-```bash
-git clone https://github.com/eupedrocambui/amazon-ecommerce-clone
-```
-
-2- Navigate to the Project Folder
-```bash
-cd amazon-ecommerce-clone
-```
-
-3- Open ```index.html``` file in your web browser to run the project
-
-4- Open ```tests/tests.html``` file in your web browser to run Jasmine tests
-
 # File Structure
 
 ```
-amazon-ecommerce-clone/                 # Main project folder
+javascript-course-supersimpledev/       # Main project folder
 ├── data/                               # Contains application data and business logic
 │   ├── cart.js                         # Handles shopping cart data and cart-related logic
 │   ├── deliveryOptions.js              # Stores and manages delivery options data
