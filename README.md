@@ -1,7 +1,7 @@
 # JavaScript Course | @SuperSimpleDev
 This repository was created to document the learning process throughout the JavaScript course by [@SuperSimpleDev](https://www.youtube.com/c/SuperSimpleDev). It includes notes and detailed information about the project developed during the lessons
 
-Check the project: 
+Check the project: https://javascript-course-supersimpledev.vercel.app
 
 # Project Details and Purpose
 The project replicates key pages and functionality of a simplified e-commerce platform. This clone focuses on UI structure, responsiveness, and layout of essential e-commerce screens including Order History, Checkout, and Tracking pages
@@ -95,6 +95,6 @@ javascript-course-supersimpledev/       # Main project folder
 
 ---
 
-Created by [Pedro C. Martins](https://github.com/eupedrocambui)
+Created by [Pedro C. Martins](https://github.com/pedrocambui06)
 
 Feel free to open issues, propose improvements, or use this project for educational purposes
